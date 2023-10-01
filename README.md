@@ -1,0 +1,1 @@
+# tiktok-report-ban-tool
